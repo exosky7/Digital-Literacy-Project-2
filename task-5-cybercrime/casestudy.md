@@ -1,0 +1,7 @@
+Phishing is a type of cybercrime in which attackers impersonate a trusted entity to trick individuals into revealing sensitive information such as passwords, bank details, or personal data. It commonly occurs through emails, messages, or fake websites that appear legitimate.
+
+A typical phishing attack happens in several steps. First, the attacker creates a convincing message, often posing as a bank, university, or popular service. Next, they send this message to a large number of users, urging immediate action such as “verify your account” or “reset your password.” The message usually contains a malicious link that redirects the victim to a fake website resembling the real one. When the user enters their login credentials, the attacker captures this information. Finally, the attacker uses the stolen data for financial fraud or identity theft.
+
+Students, elderly individuals, and less tech-savvy users are common targets, as they may be less aware of such scams. However, even experienced users can fall victim if the message is highly convincing.
+
+The consequences of phishing can be severe, including financial loss, identity theft, and unauthorized access to personal or institutional accounts. It can also damage reputations and compromise sensitive data. Awareness, careful verification, and strong security practices are essential to prevent such attacks.
